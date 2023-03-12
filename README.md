@@ -13,6 +13,7 @@
 ---
 
 <h3 align="left">Short Desc :</h3>
+
 - 🔭 I’m currently studying on [Universitas Muhammadiyah Surakarta](https://www.ums.ac.id/)
 
 - 🌱 I’m currently learning **Python, PHP, Javascript**
